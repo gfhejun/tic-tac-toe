@@ -9,11 +9,6 @@
     vertical-align: middle;
 }
 
-.status {
-    font-size: 20px;
-    color: cornflowerblue;
-}
-
 .board-row {
     height: 50px;
     font-size: 0;
@@ -28,5 +23,6 @@
 }
 
 .game-info {
-
+    font-size: 20px;
+    color: cornflowerblue;
 }
